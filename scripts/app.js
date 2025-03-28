@@ -93,19 +93,34 @@ document.querySelectorAll(".service").forEach((element) => {
     });
 });
 // banner video scrolling effects
-gsap.to(".b-video", {
-    width: "100vw",
-    height: "100vh", 
-    left: "0%",
-    borderRadius: "0%",
+let tl = gsap.timeline({
     scrollTrigger: {
         trigger: ".banner",
-        start: "top",
-        left: "bottom",
+        start: "top top",
+        end: "+=1500", 
         scrub: 1, 
         pin: true, 
     }
 });
+
+tl.to(".b-video", {
+    width: "100vw",
+    height: "100vh",
+    left: "0%",
+    borderRadius: "0%",
+}, 0) // Start immediately
+
+// Animate banner text fading out
+tl.to(".banner-text", {
+    opacity: 0,
+    y: "-50",
+}, "<") // "<" makes it start at the same time as previous animation
+
+// Animate banner row-2 fading out
+tl.to(".banner-row-2", {
+    opacity: 0,
+    y: "-50",
+}, "<");
 
 //logos script     
     gsap.to(".logos img", {
@@ -114,7 +129,7 @@ gsap.to(".b-video", {
         ease: "power1.inOut",
     scrollTrigger: {
         trigger: ".logo-section",
-        start: "top bottom 10%",
+        start: "top 80%",
         scrub: 1
     }
 })
