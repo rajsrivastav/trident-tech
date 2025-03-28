@@ -1,0 +1,12 @@
+.form-btn{
+    background-color: var(--color-seconday);
+    color: var(--color-white);
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.contact-form {
+    margin-top: 6%;
+}

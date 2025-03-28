@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-Bold.woff2') format('woff2'),
+        url('AloeveraDisplay-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-BlackItalic.woff2') format('woff2'),
+        url('AloeveraDisplay-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-Black.woff2') format('woff2'),
+        url('AloeveraDisplay-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-Medium.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-BlackItalic.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-MediumItalic.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed ExBd';
+    src: url('Aloeveradisplaycondensed-ExtraBold.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-BoldItalic.woff2') format('woff2'),
+        url('AloeveraDisplay-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-BoldItalic.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-Light.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-Lightitalic.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-Lightitalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed ExLight';
+    src: url('Aloeveradisplaycondensed-ExtraLight.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-Regular.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-Bold.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-Black.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed SmBd';
+    src: url('Aloeveradisplaycondensed-SemiBold.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-ExtraBoldItalic.woff2') format('woff2'),
+        url('AloeveraDisplay-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-ExtraBold.woff2') format('woff2'),
+        url('AloeveraDisplay-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-Light.woff2') format('woff2'),
+        url('AloeveraDisplay-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-ThinItalic.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-Medium.woff2') format('woff2'),
+        url('AloeveraDisplay-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-Lightitalic.woff2') format('woff2'),
+        url('AloeveraDisplay-Lightitalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-ExtraLight.woff2') format('woff2'),
+        url('AloeveraDisplay-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-ExtraLightItalic.woff2') format('woff2'),
+        url('AloeveraDisplay-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-MediumItalic.woff2') format('woff2'),
+        url('AloeveraDisplay-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-RegularItalic.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera display condensed';
+    src: url('Aloeveradisplaycondensed-Thin.woff2') format('woff2'),
+        url('Aloeveradisplaycondensed-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-SemiBold.woff2') format('woff2'),
+        url('AloeveraDisplay-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-RegularItalic.woff2') format('woff2'),
+        url('AloeveraDisplay-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aloevera Display';
+    src: url('AloeveraDisplay-Regular.woff2') format('woff2'),
+        url('AloeveraDisplay-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
