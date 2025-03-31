@@ -24,6 +24,7 @@ global $wpdb;
 ?>
 
 <?php 
+// This database insertion query will run, when you will not use the contact form 7 form plugin.
   $name = sanitize_text_field(esc_html($_POST['your-name']));
   print_r($name);
   die();
@@ -45,7 +46,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             ],
             ['%s', '%s', '%s']
         );
-        
         // Check if insertion was successful
         if ($inserted) {
             echo "<p style='color:green;'>Form submitted successfully!</p>";

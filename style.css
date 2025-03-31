@@ -633,7 +633,6 @@ footer {
 }
 .footer-logo img{
     position: relative;
-    bottom: -10pc;
     object-fit: cover;
 }
 .footer-links li a{

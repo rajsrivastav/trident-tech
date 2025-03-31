@@ -50,14 +50,9 @@
                     'theme_location' => 'footer_menu',
                     'container' => true,
                     'menu_class' => 'list-unstyled p-0',
-                    'fallback_cb' => false
+                    'fallback_cb' => false,
                 ));
             ?>
         </div>
-        <img src="<?php echo get_template_directory() ?> /assets/images/home.png" alt="">
-        <img src="<?php echo get_template_directory() ?> /assets/images/services.png" alt="">
-        <img src="<?php echo get_template_directory() ?> /assets/images/contact.png" alt="">
-        <img src="<?php echo get_template_directory() ?> /assets/images/work.png" alt="">
-        <img src="<?php echo get_template_directory() ?> /assets/images/blog.png" alt="">
     </div>
 </div>

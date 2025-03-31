@@ -10,7 +10,7 @@
     <?php
         // Custom Query for Trident Posts CPT
         $args = array(
-            'post_type'      => 'trident-posts', // Custom Post Type Slug
+            'post_type'      => array('post', 'trident-posts'), // Custom Post Type Slug
             'posts_per_page' => 6,  // Number of posts to display
             'orderby'        => 'date',
             'order'          => 'DESC',
